@@ -1,0 +1,30 @@
+body{
+    background-color:#EAF6F6;
+
+}
+hr{
+    background-color:white;
+    border-style:none;
+    border-top-style:dotted;
+    border-color: rgb(218, 186, 90);
+    border-width: 5px;
+    width:18%;
+}
+h1:hover{
+    color:gold;
+    text-shadow:2px 2px #86E5FF;
+}
+h2:hover{
+    color:#13d530;
+    text-shadow:2px 2px #86E5FF;
+
+}
+h3{
+    color:#66bfbf;
+    text-shadow:2px 2px #86E5FF;
+}
+.SHREESHA{
+    background-color: #82AAE3;
+}
+.SAANVIM{
+    background-color: #FFF6BD
